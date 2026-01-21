@@ -1,0 +1,3 @@
+MODEL_NAME = "gpt-4o-mini"
+REQUEST_TIMEOUT = 10
+MAX_RETRIES = 3
